@@ -1,7 +1,7 @@
 # Actividad 14: Implementación de estrategia Divide y Vencerás (Karatsuba)
 
 ## Objetivo
-Aplicar el paradigma algorítmico de **Divide y Vencerás** mediante la implementación del algoritmo de Karatsuba para multiplicar números enteros gigantes, reduciendo drásticamente la cantidad de multiplicaciones elementales en comparación con el método tradicional.
+Aplicar el paradigma algorítmico de Divide y Vencerás mediante la implementación del algoritmo de Karatsuba para multiplicar números enteros gigantes, reduciendo drásticamente la cantidad de multiplicaciones elementales en comparación con el método tradicional.
 
 ## Análisis Asintótico
 
